@@ -1,0 +1,19 @@
+body {
+    background-image: linear-gradient(lightyellow, yellow);
+}
+
+header{
+	width: 140px;
+	height: 70px;
+	border: 1px solid blue;
+	color: white;
+	background-color: blue;
+	-moz-border-radius: 80px;
+    -webkit-border-radius: 80px;
+    border-radius: 80px;
+    padding: 20px;
+	/*font-size: 0.6em;*/
+}
+p{
+	text-align: center;
+}
